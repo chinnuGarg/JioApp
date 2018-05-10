@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JIOGameApp</string>
+    <string name="trending_game">Trending Game</string>
+    <string name="all">All</string>
+</resources>
